@@ -19,11 +19,11 @@ https://github.com/mixi-inc/iOSTraining/
     * Xcode https://developer.apple.com/xcode/downloads/
     * プラグイン http://alcatraz.io
 * Cocoa Touch Frameworkについて
-    * Foundation.framework、UIKit.framework...
+    * Foundation、UIKit、CoreGraphics...
 * Objective-Cの文法 pert1
-    * http://github.lo.mixi.jp/yuichi-takeda/introduction-for-objective-c
+    * https://github.com/mixi-inc/introduction-for-objective-c
 * Objective-Cの文法 pert2
-    * http://github.lo.mixi.jp/yuichi-takeda/introduction-for-objective-c
+    * https://github.com/mixi-inc/introduction-for-objective-c
 * お昼
 * 4.1 UITableViewについて
     *  https://github.com/mixi-inc/iOSTraining/wiki/4.1-UITableViewについて
